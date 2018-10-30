@@ -5,7 +5,9 @@ import vector
 '''
     this program randomly creates vectors, tells you what the vectors are
 
-    then shows how simple vector calculations work. it also tests the following
+    then shows how simple vector calculations work. The random vectors produced are non integer to ensure the program works for all possible inputs.
+    
+    It also tests the following
 
     identities and show if they hold true or not:
 
